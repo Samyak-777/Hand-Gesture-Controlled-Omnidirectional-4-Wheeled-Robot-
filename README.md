@@ -204,6 +204,13 @@ The robot's circuit interprets the transmitted gestures and controls the Mecanum
 | - ![clideo_editor_e59d6d1f68f544a0a9bbf8be52ae7675-ezgif com-optimize](https://github.com/user-attachments/assets/62fdf41f-d721-4abd-a9ba-c68ce942ec09)| - ![clideo_editor_d649c38f290442c6bbf4d307a6760cc3-ezgif com-crop (1)](https://github.com/user-attachments/assets/e0ef3237-a08a-4db3-98f9-bfc384c440aa)  |
 | --- | --- |
 
+### Link to more Detailed Documentation of this project  
+[Omni Directional Robot Documentation](https://hackmd.io/h2rtKvY5R7yqqVJSFDj83w?view)
+
+### How to run the code
+Download the arudino ide and run the files.
+Then you are good to go
+
 ---
 
 
