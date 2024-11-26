@@ -2,7 +2,7 @@
 
 This is the official repository for the Omni Directional Hand Gesture-Controlled Robot project at IvLabs, VNIT Nagpur.
 
-## Table of Contents
+## Contents
 
 - [Objectives](#objectives)
 - [Methodology](#methodology)
@@ -102,7 +102,8 @@ where \( i = 1, 2, 3, 4 \).
 - **\( L \)**: Distance from the center of the robot to the wheel
 - **\( θi \)**: Angle of the wheel with respect to the robot
     
-![{DD29E70F-8DFB-4D59-8AD5-6C0833576E48}](https://github.com/user-attachments/assets/359d1281-0296-4ff6-9693-d3d69a425899)
+![{B64F84E5-FEB2-4465-80E1-0769934445B6}](https://github.com/user-attachments/assets/07466d6c-a2cf-45f5-8140-48553d7e46dd)
+
 
 
 ### 5. Error Minimization
@@ -165,7 +166,8 @@ The robot's circuit interprets the transmitted gestures and controls the Mecanum
   - First we tried using bluetooth , reciever was not able to connect to transmitter.
   - Then we tried with only Wifi , there was problem of connection loss.
   - At last we used ESP-NOW Protocol for Wireless Data Transfer.
-![{60E2B06D-117F-4DA7-ABFE-873D27884EFF}](https://github.com/user-attachments/assets/7035d4cb-8510-481b-83e3-3013ea9dabeb)
+![{CE0C36F2-A4CF-4322-A9DC-C9EE25361060}](https://github.com/user-attachments/assets/ea606d09-f10b-4c7a-b370-b75266253330)
+
 
 
 ## Final Outcome
