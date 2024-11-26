@@ -64,7 +64,7 @@ The integration of the MPU6050 with the ESP32 results in precise real-time track
 
 |                    1]   Forward Motion                     |                     2] Backward Motion                      |
 |:----------------------------------------------------------:|:-----------------------------------------------------------:|
-| ![Forward (2)](https://github.com/user-attachments/assets/33ce022c-c7c0-48a4-b24f-bf72bedbe949) | ![Backward (1)](https://github.com/user-attachments/assets/8c13606c-27da-4976-ad22-a669e5629559) |
+| ![Forward (2)](https://github.com/user-attachments/assets/cd38c6b2-6eb9-4cb3-93a8-1b1a20dd9197) | ![Backward (1)](https://github.com/user-attachments/assets/7b3680d1-a190-4f4a-b753-04cae605455a) |
 
 
 |                    3]   Leftward Motion                     |                     4] Rightward Motion                      |
@@ -174,34 +174,34 @@ The robot's circuit interprets the transmitted gestures and controls the Mecanum
 
    ### 1] Forward Motion and Gesture
 
-| - ![clideo_editor_8e83dd40fa0f4ebcab7235a1aa08f386-ezgif com-crop](https://github.com/user-attachments/assets/dcdc0ea1-091e-4163-9c62-aa2dcb4eb3a1)| - ![clideo_editor_3f7a37148ee74914ac6dc855c9c3842a (1) (2)-min](https://github.com/user-attachments/assets/f767f146-4518-491c-8637-bf89e7b2cf24) |
+|  ![clideo_editor_8e83dd40fa0f4ebcab7235a1aa08f386-ezgif com-crop](https://github.com/user-attachments/assets/dcdc0ea1-091e-4163-9c62-aa2dcb4eb3a1)|  ![clideo_editor_3f7a37148ee74914ac6dc855c9c3842a (1) (2)-min](https://github.com/user-attachments/assets/f767f146-4518-491c-8637-bf89e7b2cf24) |
 | --- | --- |
   ### 2] Backward Motion and Gesture 
-| - ![Pi7_GIF_CMP (6)](https://github.com/user-attachments/assets/3302445e-6e1c-4946-a1be-cfaa9ff64c22) | - ![clideo_editor_7c57bf5448664c95bda64f7a741899bf-ezgif com-crop](https://github.com/user-attachments/assets/0b269719-b6eb-49b5-8226-d9cd31fa591b) |
+|  ![Pi7_GIF_CMP (6)](https://github.com/user-attachments/assets/3302445e-6e1c-4946-a1be-cfaa9ff64c22) |  ![clideo_editor_7c57bf5448664c95bda64f7a741899bf-ezgif com-crop](https://github.com/user-attachments/assets/0b269719-b6eb-49b5-8226-d9cd31fa591b) |
 | --- | --- |
 ### 3] Leftward motion and Gesture
-| - ![clideo_editor_26a2e212c2b54b35ba1fd6984c673099-ezgif com-crop](https://github.com/user-attachments/assets/9f0bf2b0-c71c-4492-8834-f873d30dc9a1) | -![clideo_editor_07811adebee047a9bbbf781a2be16687-ezgif com-crop](https://github.com/user-attachments/assets/a7ac58ce-808c-49cc-92ae-c585140ed44c)  |
+|  ![clideo_editor_26a2e212c2b54b35ba1fd6984c673099-ezgif com-crop](https://github.com/user-attachments/assets/9f0bf2b0-c71c-4492-8834-f873d30dc9a1) | ![clideo_editor_07811adebee047a9bbbf781a2be16687-ezgif com-crop](https://github.com/user-attachments/assets/a7ac58ce-808c-49cc-92ae-c585140ed44c)  |
 | --- | --- |
   ### 4] Rightward motion and Gesture
-| - ![Pi7_GIF_CMP (1)](https://github.com/user-attachments/assets/d847da56-3a11-4ea1-9f69-cfe9b9330ad8)  | - ![clideo_editor_9175009f7c7d473eb05568c76f44c064-ezgif com-crop](https://github.com/user-attachments/assets/d90dbae0-d864-4afb-8119-6b556d022297) |
+| ![Pi7_GIF_CMP (1)](https://github.com/user-attachments/assets/d847da56-3a11-4ea1-9f69-cfe9b9330ad8)  | ![clideo_editor_9175009f7c7d473eb05568c76f44c064-ezgif com-crop](https://github.com/user-attachments/assets/d90dbae0-d864-4afb-8119-6b556d022297) |
 | --- | --- |
 ### 5] Backward-Right motion and Gesture
-| - ![clideo_editor_5a3ad0e03f3043ff84b6a699fbdf23be-ezgif com-crop (1)](https://github.com/user-attachments/assets/3ddd52a4-9386-4a57-8c89-63e5316c41ef)  | - ![clideo_editor_fe2618fd643147c095c18a07dda61f7b-ezgif com-crop](https://github.com/user-attachments/assets/ecb7fcde-61c7-4b7a-b27e-376f7ab2940d) |
+|  ![clideo_editor_5a3ad0e03f3043ff84b6a699fbdf23be-ezgif com-crop (1)](https://github.com/user-attachments/assets/3ddd52a4-9386-4a57-8c89-63e5316c41ef)  |  ![clideo_editor_fe2618fd643147c095c18a07dda61f7b-ezgif com-crop](https://github.com/user-attachments/assets/ecb7fcde-61c7-4b7a-b27e-376f7ab2940d) |
 | --- | --- |
 ### 6] Forward-Right motion and Gesture
-| - ![Pi7_GIF_CMP (5)](https://github.com/user-attachments/assets/03b2455d-8432-4125-9302-a43f035bb791) | - ![clideo_editor_633a92f379c24180a07db826e5f1bcea-ezgif com-crop](https://github.com/user-attachments/assets/07988dca-1a86-4be4-918d-59d345a43e7f) |
+|  ![Pi7_GIF_CMP (5)](https://github.com/user-attachments/assets/03b2455d-8432-4125-9302-a43f035bb791) |  ![clideo_editor_633a92f379c24180a07db826e5f1bcea-ezgif com-crop](https://github.com/user-attachments/assets/07988dca-1a86-4be4-918d-59d345a43e7f) |
 |--- | --- |
 ### 7] Backward-Left motion and Gesture
-|  - ![Pi7_GIF_CMP3-ezgif com-crop](https://github.com/user-attachments/assets/fd5938be-6e89-44e3-9db3-b31bf982b3db)| - ![clideo_editor_d8819fd0e9b94bb38e92f6850f763152-ezgif com-crop](https://github.com/user-attachments/assets/b8f04796-6901-49a1-b309-46a3690daf05) |
+|   ![Pi7_GIF_CMP3-ezgif com-crop](https://github.com/user-attachments/assets/fd5938be-6e89-44e3-9db3-b31bf982b3db)|  ![clideo_editor_d8819fd0e9b94bb38e92f6850f763152-ezgif com-crop](https://github.com/user-attachments/assets/b8f04796-6901-49a1-b309-46a3690daf05) |
 |--- | --- |
 ### 8] Forward-Left motion and Gesture
-| - ![Pi7_GIF_CMP (4)](https://github.com/user-attachments/assets/f78dbb50-cbcb-4ab6-a69b-db0a697b35e8) |- ![clideo_editor_ad40d1f323354baa8fd13192614ff335-ezgif com-crop](https://github.com/user-attachments/assets/94aed21a-bada-49b5-ad97-4e399190ba6b) |
+|  ![Pi7_GIF_CMP (4)](https://github.com/user-attachments/assets/f78dbb50-cbcb-4ab6-a69b-db0a697b35e8) | ![clideo_editor_ad40d1f323354baa8fd13192614ff335-ezgif com-crop](https://github.com/user-attachments/assets/94aed21a-bada-49b5-ad97-4e399190ba6b) |
 | --- | --- |
 ### 9] Clockwise motion and Gesture
-| - ![clideo_editor_39199e4fdac24a4f8f52c2f8cf530ea6-ezgif com-crop](https://github.com/user-attachments/assets/26a6d1e9-65b4-4bae-80cb-5803528361d8) | -![clideo_editor_5a0b61c32c484bbca4e911fb65e3c2f5-ezgif com-crop](https://github.com/user-attachments/assets/644d8df3-3674-4715-97c2-557ab87ad65b) |
+|  ![clideo_editor_39199e4fdac24a4f8f52c2f8cf530ea6-ezgif com-crop](https://github.com/user-attachments/assets/26a6d1e9-65b4-4bae-80cb-5803528361d8) | ![clideo_editor_5a0b61c32c484bbca4e911fb65e3c2f5-ezgif com-crop](https://github.com/user-attachments/assets/644d8df3-3674-4715-97c2-557ab87ad65b) |
 | --- | --- |
 ### 10] Anti-Clockwise motion and Gesture
-| - ![clideo_editor_e59d6d1f68f544a0a9bbf8be52ae7675-ezgif com-optimize](https://github.com/user-attachments/assets/62fdf41f-d721-4abd-a9ba-c68ce942ec09)| - ![clideo_editor_d649c38f290442c6bbf4d307a6760cc3-ezgif com-crop (1)](https://github.com/user-attachments/assets/e0ef3237-a08a-4db3-98f9-bfc384c440aa)  |
+|  ![clideo_editor_e59d6d1f68f544a0a9bbf8be52ae7675-ezgif com-optimize](https://github.com/user-attachments/assets/62fdf41f-d721-4abd-a9ba-c68ce942ec09)|  ![clideo_editor_d649c38f290442c6bbf4d307a6760cc3-ezgif com-crop (1)](https://github.com/user-attachments/assets/e0ef3237-a08a-4db3-98f9-bfc384c440aa)  |
 | --- | --- |
 
 ### Link to more Detailed Documentation of this project  
